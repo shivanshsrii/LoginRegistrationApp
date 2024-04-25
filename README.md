@@ -4,4 +4,4 @@
 
 
 # Screenshots
-![readme](ReadME-Img/Deleting-a-record-Copy.png)
+![readme](Images/Screenshot (12).png)
