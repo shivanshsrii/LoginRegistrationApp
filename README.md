@@ -8,4 +8,4 @@ https://youtu.be/zJTibedwD_s
 ![readme](https://github.com/shivanshsrii/LoginRegistrationApp/blob/master/Images/Screenshot%20(11).png)
 
 # SWAGGER
-![readme](https://github.com/shivanshsrii/LoginRegistrationApp/blob/master/Images/Screenshot%20(11).png)
+![readme](https://github.com/shivanshsrii/LoginRegistrationApp/blob/master/Images/A1(9).png)
