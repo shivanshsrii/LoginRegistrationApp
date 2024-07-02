@@ -1,6 +1,6 @@
 # LOGIN AND REGISTRATION USING ASP.NET WEB API AND SQL SERVER, TESTING WITH SWAGGER
 
-# Testing
+# Testing Video
 https://github.com/shivanshsrii/LoginRegistrationApp/assets/146938507/003d59e3-48aa-46e0-82b8-fa3448ee26ff
 
 # Live Video Demo 
